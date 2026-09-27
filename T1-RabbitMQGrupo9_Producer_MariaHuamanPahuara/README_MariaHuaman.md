@@ -72,3 +72,5 @@ Lista enviada a RabbitMQ correctamente.
 ```
 
 El consumidor (8083) lo recibe e imprime `[1, 2, 15, 8] → [1, 1, 610, 21]` tras ~20s.
+
+— Maria Huaman Pahuara
